@@ -1,0 +1,33 @@
+{
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#1A1A1A",
+        "statusBar.noFolderBackground" : "#0A0A0D",
+        "statusBar.debuggingBackground": "#511f1f",
+        "activityBar.background": "#1a1e24",
+        "sideBar.background": "#1a1e24",
+        "input.background": "#15191e",
+        "editorGroupHeader.tabsBackground": "#15191e",
+        "tab.inactiveBackground": "#15191e",
+        "tab.activeBorder": "#a6b0bf",
+        "inputOption.activeBorder": "#a6b0bf",
+        "sideBarSectionHeader.background": "#2b313b",
+        "list.activeSelectionBackground": "#363e4a",
+        "list.inactiveSelectionBackground": "#363e4a",
+        "list.hoverBackground": "#404a59"
+    
+    },
+    "workbench.colorTheme": "Agila Oceanic Next",
+    "editor.fontSize": 14,
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.exclude": {
+            "**/*.pyc": true,
+            //"**/*.pyc": { "when": "$(basename).py"}        
+            
+            
+        },
+        "material-icon-theme.showUpdateMessage": false,
+        "editor.minimap.enabled": false,
+        "explorer.confirmDragAndDrop": false,
+    
+}
